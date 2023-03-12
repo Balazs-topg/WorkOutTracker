@@ -1,0 +1,20 @@
+{
+  "name": "workouttracker",
+  "version": "1.0.0",
+  "description": "I am doing this project as part of the \"The Odin Project\" web development curriculum in the javascript course \"Project: Todo List\". I did not want to create just another todo app because there are enough of them alredy, so this is supposed to act as an alternative project that showcases similar or identical skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balazs-topg/WorkOutTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Balazs-topg/WorkOutTracker/issues"
+  },
+  "homepage": "https://github.com/Balazs-topg/WorkOutTracker#readme"
+}
